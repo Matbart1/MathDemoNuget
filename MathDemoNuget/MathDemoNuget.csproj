@@ -7,6 +7,9 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Nuget Demo Test</Title>
     <Description>Test for Patrick and Mathieu</Description>
+    <PackageProjectUrl>https://github.com/Matbart1/MathDemoNuget/tree/master/MathDemoNuget</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Matbart1/MathDemoNuget</RepositoryUrl>
+    <PackageTags>Demo, Test</PackageTags>
   </PropertyGroup>
 
 </Project>
